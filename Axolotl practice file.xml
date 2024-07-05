@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5435" lry="7115" xml:id="facs_84">
+         <graphic url="0084_084_40v.jpeg" width="5435px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TSYUBUVNAMETGGUMECZGLUHA&amp;fileType=view" width="5435px" height="7115px"/>
+         <zone points="262,418 5282,418 5282,6521 262,6521" rendition="TextRegion" xml:id="facs_84_tr_1">
+            <zone points="4704,238 4907,238 4907,668 4704,668" rendition="Line" xml:id="facs_84_tr_1_tl_1"/>
+            <zone points="280,823 4991,823 4991,1252 280,1252" rendition="Line" xml:id="facs_84_tr_1_tl_2"/>
+            <zone points="292,1187 5074,1187 5074,1574 292,1574" rendition="Line" xml:id="facs_84_tr_1_tl_3"/>
+            <zone points="352,1443 3774,1443 3774,1836 352,1836" rendition="Line" xml:id="facs_84_tr_1_tl_4"/>
+            <zone points="1264,1735 4955,1735 4955,2117 1264,2117" rendition="Line" xml:id="facs_84_tr_1_tl_5"/>
+            <zone points="3172,2009 3464,2009 3464,2212 3172,2212" rendition="Line" xml:id="facs_84_tr_1_tl_6"/>
+            <zone points="227,2051 3840,2051 3840,2498 227,2498" rendition="Line" xml:id="facs_84_tr_1_tl_7"/>
+            <zone points="1353,2391 5086,2391 5086,2796 1353,2796" rendition="Line" xml:id="facs_84_tr_1_tl_8"/>
+            <zone points="227,2671 1294,2671 1294,2981 227,2981" rendition="Line" xml:id="facs_84_tr_1_tl_9"/>
+            <zone points="1353,2969 2135,2969 2135,3244 1353,3244" rendition="Line" xml:id="facs_84_tr_1_tl_10"/>
+            <zone points="1467,3023 5164,3023 5164,3381 1467,3381" rendition="Line" xml:id="facs_84_tr_1_tl_11"/>
+            <zone points="1473,3279 4943,3279 4943,3631 1473,3631" rendition="Line" xml:id="facs_84_tr_1_tl_12"/>
+            <zone points="1353,3566 5116,3566 5116,3929 1353,3929" rendition="Line" xml:id="facs_84_tr_1_tl_13"/>
+            <zone points="310,3846 4520,3846 4520,4275 310,4275" rendition="Line" xml:id="facs_84_tr_1_tl_14"/>
+            <zone points="1342,4138 4025,4138 4025,4532 1342,4532" rendition="Line" xml:id="facs_84_tr_1_tl_15"/>
+            <zone points="1389,4454 5205,4454 5205,4877 1389,4877" rendition="Line" xml:id="facs_84_tr_1_tl_16"/>
+            <zone points="340,4764 1383,4764 1383,5140 340,5140" rendition="Line" xml:id="facs_84_tr_1_tl_17"/>
+            <zone points="1383,5074 3345,5074 3345,5426 1383,5426" rendition="Line" xml:id="facs_84_tr_1_tl_18"/>
+            <zone points="1401,5396 2629,5396 2629,5629 1401,5629" rendition="Line" xml:id="facs_84_tr_1_tl_19"/>
+            <zone points="1461,5664 2307,5664 2307,6010 1461,6010" rendition="Line" xml:id="facs_84_tr_1_tl_20"/>
+            <zone points="1425,5921 5265,5921 5265,6350 1425,6350" rendition="Line" xml:id="facs_84_tr_1_tl_21"/>
+            <zone points="1449,6273 3935,6273 3935,6666 1449,6666" rendition="Line" xml:id="facs_84_tr_1_tl_22"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_84" n="84" xml:id="img_0084"/>
+            <ab facs="#facs_84_tr_1" type="">
+               <l facs="#facs_84_tr_1_tl_1" n="N001"><metamark function="pagenumber"><num>39</num></metamark></l>
+               <l facs="#facs_84_tr_1_tl_2" n="N002">little smile at our expense and perhaps we do as much by</l>
+               <l facs="#facs_84_tr_1_tl_3" n="N003">him of my reading of this problem proves to be correct. Yes,</l>
+               <l facs="#facs_84_tr_1_tl_4" n="N004">yes. I think I see how we should approach it."</l>
+               <l facs="#facs_84_tr_1_tl_5" n="N005" rend="indent">The Scotland Yard Inspector was still writing in</l>
+              
+               <l facs="#facs_84_tr_1_tl_7" n="N007">the parlour when Holmes interrupted <del>his report</del> <add facs="#facs_84_tr_1_tl_6" n="N006">him</add>.</l>
+               <l facs="#facs_84_tr_1_tl_8" n="N008" rend="indent">"I understood that you were writing a report of this</l>
+               <l facs="#facs_84_tr_1_tl_9" n="N009">case" said he</l>
+               <l facs="#facs_84_tr_1_tl_10" n="N010" rend="indent" >"So I am"</l>
+               <l facs="#facs_84_tr_1_tl_11" n="N011" rend="indent">"Dont you think it may be a little premature. I cant help thinking</l>
+               <l facs="#facs_84_tr_1_tl_12" n="N012" rend="indent"><del>I dont consides</del> that your evidence is <add>not</add> complete"</l>
+               <l facs="#facs_84_tr_1_tl_13" n="N013" rend="indent">Lestrade knew my friend too well to <unclear>desr</unclear> and his</l>
+               <l facs="#facs_84_tr_1_tl_14" n="N014">words. He laid down his pen &amp; looked curiously at him.</l>
+               <l facs="#facs_84_tr_1_tl_15" n="N015" rend="indent">"What do you mean, Mr Holmes?"</l>
+               <l facs="#facs_84_tr_1_tl_16" n="N016" rend="indent">"Only that there is an important witness whom you</l>
+               <l facs="#facs_84_tr_1_tl_17" n="N017">have not seen"</l>
+               <l facs="#facs_84_tr_1_tl_18" n="N018" rend="indent"> "Can you produce him?"</l>
+               <l facs="#facs_84_tr_1_tl_19" n="N019" rend="indent">"I think I can"</l>
+               <l facs="#facs_84_tr_1_tl_20" n="N020" rend="indent">"Then do so"</l>
+               <l facs="#facs_84_tr_1_tl_21" n="N021" rend="indent">"I will do my best. How many constables have you?"</l>
+               <l facs="#facs_84_tr_1_tl_22" n="N022" rend="indent">"There are three <del>for</del> within call"</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
